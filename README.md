@@ -7,7 +7,9 @@
 - 프로그래밍언어에 대한 해석과 응용을 좋아합니다! 
 <br>
 <br>
-✨Skills✨ 
+✨Skills✨
+<br>
+<br>
 <table>
     <tr>
     </tr>
