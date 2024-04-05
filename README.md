@@ -43,10 +43,17 @@
     - 제목 : ShoeKream
     - 기간 : 2024.03.20 ~ 2024.04.04
     - 역할 : FRONT 총괄
+    - 팀원 : 4명
        <br>  ![image](https://github.com/jong-won-oh/jong-won-oh/assets/157657703/6aaae5c1-2f16-4061-bd76-a82f58dcf6c8)
-
-    - 내용 : MZ 세대를 위한 신발 SNS  
+    - 내용 : MZ 세대를 위한 신발 SNS
     - 참고 문헌 : <a href="https://www.miricanvas.com/v/131r577">프로젝트PPT</a>
                  <a href="https://docs.google.com/spreadsheets/d/1ZkbGw1p2XEaN200O8J2uuGXpquaVJVl904ypKT9qAls/edit#gid=0">프로젝트WBS</a>
+                 <a href="https://github.com/2023-SMHRD-KDT-AI-16/Shoekream">github</a>
 - 미니프로젝트
-                     
+    - 제목 : SURVIVEGAME
+    - 기간 : 2024.01.31 ~ 2024.02.02
+    - 역할 : ASCIIART, DB기능구현, Java기능구현
+    - 팀원 : 4명
+    - 내용 : 넌센스 퀴즈게임 
+    - 참고문헌 :  <a href="https://github.com/2023-SMHRD-KDT-AI-16/SURVIVEGAME">github</a>
+  
