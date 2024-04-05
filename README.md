@@ -6,7 +6,6 @@
 - 꾸준함의 가치는 무엇보다도 중요하기에 학습내용에 대한    <a href="https://blog.naver.com/ojw6362">블로그</a>를 운영 하고 있습니다. 
 - 프로그래밍언어에 대한 해석과 응용을 좋아합니다! 
 <br>
-<br>
 ✨Skills✨
 <br>
 <br>
@@ -37,3 +36,17 @@
     </tr>
     </tr>
 </table>
+
+✨Project✨
+<br>
+- 핵심프로젝트
+    - 제목 : ShoeKream
+    - 기간 : 2024.03.20 ~ 2024.04.04
+    - 역할 : FRONT 총괄
+       <br>  ![image](https://github.com/jong-won-oh/jong-won-oh/assets/157657703/6aaae5c1-2f16-4061-bd76-a82f58dcf6c8)
+
+    - 내용 : MZ 세대를 위한 신발 SNS  
+    - 참고 문헌 : <a href="https://www.miricanvas.com/v/131r577">프로젝트PPT</a>
+                 <a href="https://docs.google.com/spreadsheets/d/1ZkbGw1p2XEaN200O8J2uuGXpquaVJVl904ypKT9qAls/edit#gid=0">프로젝트WBS</a>
+- 미니프로젝트
+                     
