@@ -11,35 +11,38 @@
 <br>
 <table>
     <tr>
-    </tr>
-    <tr>
         <td>Frontend</td>
         <td>
-            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
         </td>
     </tr>
     <tr>
         <td>Backend</td>
         <td>
-            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-            <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <td>Database</td>
-      <td>
-            <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+        <td>
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
         </td>
-    </tr>
     </tr>
 </table>
 
 <h3>Project</h3>
 <br>
-
+- 실전프로젝트
+    - 제목 :  YOLORAY
+    - 기간 : 2024.05.27 ~ 2024.06.19
+    - 역할 : FRONT 총괄
+    - 팀원 : 4명 
+    - 내용 : 딥러닝을 이용한 공항 X-ray 위해물품 탐지 
+    - 참고 문헌 : 
 - 핵심프로젝트
     - 제목 : ShoeKream
     - 기간 : 2024.03.20 ~ 2024.04.04
