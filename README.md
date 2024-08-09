@@ -55,8 +55,8 @@
        <br>  ![image](https://github.com/jong-won-oh/jong-won-oh/assets/157657703/1324efab-1cec-473a-88e9-9a3d6b823f77)
 
     - 내용 : MZ 세대를 위한 신발 SNS
-    - 참고 문헌 : <a href="https://www.miricanvas.com/v/131r577">프로젝트PPT</a>
-                 <a href="https://docs.google.com/spreadsheets/d/1ZkbGw1p2XEaN200O8J2uuGXpquaVJVl904ypKT9qAls/edit#gid=0">프로젝트WBS</a>
+    - 참고 문헌 : <a href="https://www.miricanvas.com/v/131r577">Project-PPT</a>
+                 <a href="https://docs.google.com/spreadsheets/d/1ZkbGw1p2XEaN200O8J2uuGXpquaVJVl904ypKT9qAls/edit#gid=0">Project-WBS</a>
                  <a href="https://github.com/2023-SMHRD-KDT-AI-16/Shoekream">github</a>
 - 미니프로젝트
     - 제목 : SURVIVEGAME
